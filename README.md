@@ -23,10 +23,6 @@ The project was developed and deployed using **Firebase**, which provided a scal
   - `index.html`: Main HTML file for the website.
   - `style.css`: Styling for the website’s UI.
 - **`slides/`**: Presentation slides (`Grp-1_CCL - Mini project Report.pdf`) providing more details about the project.
-- **`mava/`**: Frontend code for a separate project (BARC Bulk SMS Portal, not related to this website).
-- **`graphhopper-maps/`**: A separate route planner project (not related to this website).
-
-**Note**: The `mava` and `graphhopper-maps` directories are part of other projects in this repository and are not related to the COVID-19 Awareness Website.
 
 ## Tech Stack
 - **Frontend**: HTML, CSS (possibly JavaScript, inferred from typical Firebase-hosted websites).
