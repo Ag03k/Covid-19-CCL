@@ -4,6 +4,9 @@ This repository contains a **COVID-19 Awareness Website** developed as part of a
 
 🟢 **Live Demo**: [View Website](https://covid-19-website-e759d.web.app/)
 
+![image](https://github.com/user-attachments/assets/bef52656-0930-4ae4-a6c6-fc452e528775)
+
+
 ---
 
 ## 📌 Project Overview
